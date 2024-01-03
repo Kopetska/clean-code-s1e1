@@ -43,8 +43,9 @@ input,
 }
 
 @media (max-width:768px) {
-  .hero { text-align: center;
-}
+  .hero { 
+    text-align: center;
+  }
 }
 
 .main-block {
