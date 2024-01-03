@@ -171,14 +171,14 @@ button:hover {
 /* Edit Task */
 .incomplete-tasks__item input[type="text"],
 .completed-tasks__item  input[type="text"] {
-  display:none
+  display: none
 }
 
 .incomplete-tasks__item.editMode input[type="text"] {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .incomplete-tasks__item.editMode label {
-  display:none;
+  display: none;
 }
